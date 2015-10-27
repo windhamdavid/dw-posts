@@ -1,0 +1,20 @@
+---
+ID: 708
+post_title: 'Louis&#8217;s Las Vegas'
+author: David
+post_date: 2008-02-14 13:03:22
+post_excerpt: ""
+layout: post
+permalink: >
+  https://macs.local/david/louiss-las-vegas/
+published: true
+---
+i'd love to bring some attention to Louis Osteen as if he doesn't already receive <a href="http://www.bocabacchanal.com/chef2.asp">enough of it</a>... he's a great chef and personality of whom i admire for his unique views and experience with southern culture and food.  i worked for him a number of years ago in Charleston and I learned quite a bit from him (about food, people, and music) over our hot dogs lunches.. we've kept in touch...he's the reason i read <a href="http://www.steerforth.com/books/display.pperl?isbn=9781883642044">"the solace of food - the life of james beard"</a> who (beard) so reminded me of Ignatious from <a href="http://en.wikipedia.org/wiki/A_Confederacy_of_Dunces">A Confederacy of Dunces</a>(a book which has been described as the most accurate depiction of new orleans and i'll testify since we were <a href="http://davidawindham.com/blog/new-orleans-fat-tuesday/">just there</a> and which was to be adapted to film originally with belushi and now with will ferrel and lily tomlin.. <a href="http://www.slate.com/id/2155500/"> although.. there seems to be a curse on it..</a>).. which both relate to hot dogs, food, and southern culture. Speaking of..... listen to this... <a href="http://en.wikipedia.org/wiki/Jimmy_Reed">Jimmy Reed</a> (who worked at Armor Meat Packing making hot dogs) about breaking down seventy-two miles outside of new orleans and how he wrote 'ain't that loving you baby'
+<object width='360' height='22'><param name='SRC' value='http://davidawindham.com/media/reedmp3.mp3'><param name='AUTOPLAY' VALUE='false'><param name='CONTROLLER' VALUE='true'><embed SRC='http://davidawindham.com/media/reedmp3.mp3' AUTOSTART='false' LOOP='FALSE' WIDTH='360' HEIGHT='22' CONTROLLER='TRUE'></embed></object>
+If you're in Las Vegas.. it's <a href="http://www.louislasvegas.com/">Louis's Las Vegas</a> and if you're along the coast of South Carolina ..in Pawley's Island.. it's <a href="http://www.louisatpawleys.com/">Louis's Fish Camp</a>
+<a href="http://www.louislasvegas.com/"><img src="http://davidawindham.com/images/louis.png" alt="louis's las vegas" /></a>
+.... thks Louis!
+
+here's an <a href="http://www.slate.com/id/2155500/">excerpt from the slate article</a>.. about the curse of the book..
+As Will Ferrell has said, "It's the movie everyone in Hollywood wants to make but doesn't want to finance."
+Most curiously, there is the matter of what many, including Steven Soderbergh, believe to be a "curse" that surrounds the book. In addition to the tragic suicide of Toole, a series of misfortunes have affected efforts to make the film. In 1982, John Belushi became the first actor cast in the role of Ignatius (Richard Pryor was also attached to this version, in the role of the visionary vagrant Burma Jones). Belushi was an inspired choice, possessing both the artistic range and the physical largesse to nail the character. All the lights seemed to be turning green for Kramer, who was then only 23 years old. But a day or so before Belushi was supposed to meet with executives at Universal to finalize his involvement, he died of a drug overdose at the Chateau Marmont. Five months later, the woman who led the Louisiana State Film Commission was murdered by her husband, which brought the efforts to shoot the film in New Orleans—and the production itself—to a halt. Other deaths tangentially linked to the project include those of actors John Candy and Chris Farley, both of whom were considered for the lead role before they died. And, for those so predisposed, the recent devastation that Hurricane Katrina wrought on New Orleans provides further amplification.
