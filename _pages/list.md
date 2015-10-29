@@ -10,6 +10,6 @@ published: true
 ---
 &#x21aa;<a href="listing-lists/">Read the post about this list:</a>
 
-[github_readme repo="windhamdavid/awesome-david" trim="2"]
+[github_readme repo="windhamdavid/awesome-david" trim="1"]
 
 <div class="github-widget" data-repo="windhamdavid/awesome-david"></div>
