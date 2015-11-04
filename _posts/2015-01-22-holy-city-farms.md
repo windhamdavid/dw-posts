@@ -15,4 +15,4 @@ An old friend of mine contacted me a while back about helping him design a logo,
 
 You can visit the website at <strong><a href="http://www.holycityfarms.com/" target="_blank">www.holycityfarms.com</a></strong>
 
-<img src="https://davidawindham.com/wp-content/uploads/2015/09/HCF-devices-1024x499.jpg" alt="HCF-devices" width="1024" height="499" class="alignleft size-large wp-image-1323" />
+<img src="https://davidawindham.com/wp-content/uploads/2015/01/HCF-devices.jpg" alt="HCF-devices" width="1200" height="585" class="alignleft size-full wp-image-1350" />
