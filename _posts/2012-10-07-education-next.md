@@ -10,3 +10,5 @@ permalink: >
 published: true
 ---
 Education Next is the publication of the Harvard University Kennedy School Program on Education Policy and Governance.
+
+<img src="https://davidawindham.com/wp-content/uploads/2012/10/ednext.png" alt="ednext" width="800" height="724" class="alignnone size-full wp-image-1366" />
