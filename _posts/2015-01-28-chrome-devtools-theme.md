@@ -25,5 +25,4 @@ After a recent Chrome update, I noticed that the elements tab in my development 
 
 So I had to publish an extension that hacked the theme back into my development tools element inspector. The hackety-hack is in the pseudo ::shadow elements in the canary.css and the Github repo is available at <a href="https://github.com/windhamdavid/sunburst-devtools">https://github.com/windhamdavid/sunburst-devtools</a>. The Google Chrome plugin is available at <a href="https://chrome.google.com/webstore/detail/devtools-theme-sunburst/fkigcimlehjhpnejpiohmibcidmobcpo">https://chrome.google.com/webstore/detail/devtools-theme-sunburst/fkigcimlehjhpnejpiohmibcidmobcpo</a>
 &nbsp;
-<img src="https://davidawindham.com/wp-content/uploads/2015/01/sunburst-screen-devtools.jpg" alt="Sunburst Dev Tools" width="100%" class="alignnone size-full wp-image-1293" />
 <img src="https://davidawindham.com/wp-content/uploads/2015/01/sunburst-screen-devtools.png" alt="Sunburst DevTools Theme" width="100%" class="alignnone size-full wp-image-1354" />
