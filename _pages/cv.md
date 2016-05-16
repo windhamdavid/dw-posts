@@ -10,8 +10,8 @@ published: true
 ---
 <address class="right">
   <strong>David A. Windham</strong><br>
-  104 Wilton Street<br>
-  Greenwood, SC 29649<br>
+  102 Glenridge Circle<br>
+  Greenwood, SC 29646<br>
   (803) 712-3283
 </address><br/>
 
