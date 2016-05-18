@@ -8,4 +8,4 @@ layout: page
 permalink: https://davidawindham.com/studio/photo/
 published: true
 ---
-<iframe src="http://photo.davidawindham.com/" frameborder="0" height="100%" width="100%"></iframe>
+<iframe src="http://photo.davidawindham.com/" frameborder="0" height="100" width="100%"></iframe>
