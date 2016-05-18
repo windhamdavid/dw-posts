@@ -8,4 +8,4 @@ layout: page
 permalink: https://davidawindham.com/studio/photo/
 published: true
 ---
-[kml_flashembed movie="http://davidawindham.com/media/all_albums.swf" height="750" width="1000" /] 
+<iframe src="http://photo.davidawindham.com/" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%"></iframe>
