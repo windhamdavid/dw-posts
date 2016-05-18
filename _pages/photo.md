@@ -8,4 +8,4 @@ layout: page
 permalink: https://davidawindham.com/studio/photo/
 published: true
 ---
-<iframe src="http://photo.davidawindham.com/" frameborder="0" height="100" width="100%"></iframe>
+I moved my photos over to <a href="http://photo.davidawindham.com">http://photo.davidawindham.com</a>
