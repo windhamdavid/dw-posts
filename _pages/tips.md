@@ -8,4 +8,4 @@ layout: page
 permalink: https://davidawindham.com/contact/tips/
 published: true
 ---
-[gravityform id="4" title="true" description="true"][gravityform id="4" title="true" description="true"]
+[gravityform id="4" title="true" description="true"]
